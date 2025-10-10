@@ -1,0 +1,1576 @@
+{
+  "dataset": [
+    {
+      "text": "Je rencontre un problème, je veux un règlement immédiat.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir si ma commande est déjà en route ?",
+      "label": 0
+    },
+    {
+      "text": "Avez-vous des promotions en ce moment ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec mon colis, il a été retourné sans que je sois prévenu.",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie. J'ai reçu un colis vide, que faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir quand vais-je recevoir mon acheminement ?",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur où puis-je récupérer ma commande",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur si je veux acheter du gel hydroalcoolique",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir dans quel lieu est mon colis",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de quand mon envoi arrivera-t-il chez moi ?",
+      "label": 0
+    },
+    {
+      "text": "Pourquoi mon colis est-il toujours en transit ?",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie, pourquoi mon produit a-t-il été endommagé lors de la expédition ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant les crèmes hydratantes pour la peau sèche",
+      "label": 2
+    },
+    {
+      "text": "mon livreur est arrivé en retard",
+      "label": 1
+    },
+    {
+      "text": "le livreur est arrivé en retard",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur si je peux mettre de côté un médicament en ligne et le retirer en magasin",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec l'emballage, il a était ouvert à la livraison.",
+      "label": 1
+    },
+    {
+      "text": "On m'a dit que je serais remboursé, mais je n’ai toujours rien reçu.",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur ma commande, on m'a livré un produit périmé !",
+      "label": 1
+    },
+    {
+      "text": "Pourquoi ma livraison prend-elle autant de temps ?",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur si je veux acheter du paracétamol en ligne",
+      "label": 2
+    },
+    {
+      "text": "J'ai payé mais je n'ai pas reçu ma commande.",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître si mon paquet est perdu, pouvez-vous le retrouver ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant ma demande de remboursement, pourquoi a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant les délais de distribution pour ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant un article manquant dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant si je peux réserver un médicament en ligne et le prendre en point de vente ?",
+      "label": 2
+    },
+    {
+      "text": "Je voudrais des informations sur quels sont les délais de distribution pour ma commande",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître quand mon commande arrivera-t-il chez moi",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le produit qui est défectueux, comment obtenir un remboursement",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître si mon envoi est perdu, pouvez-vous le retrouver",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant pourquoi mon produit a été endommagé lors de la livraison",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur s'il y a une option pour l'expédition express ?",
+      "label": 2
+    },
+    {
+      "text": "Y a-t-il une option pour la livraison express ?",
+      "label": 2
+    },
+    {
+      "text": "Puis-je commander du sirop contre la toux en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir a quelle horaire vais-je recevoir mon colis",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant des pastilles pour la gorge",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître a quelle heure vais-je recevoir mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire le statut de mon colis est 'livré' mais je ne l'ai pas reçu.",
+      "label": 0
+    },
+    {
+      "text": "J’ai reçu un mauvais article, je veux un échange.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant la réservation d'un médicament en ligne et le retirer en magasin",
+      "label": 2
+    },
+    {
+      "text": "J'ai un souci, je suis très mécontent de votre service client.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur quel est le prix du doliprane 1000 mg ?",
+      "label": 2
+    },
+    {
+      "text": "Je voudrais des informations sur des compléments alimentaires",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir je veux recevoir une alerte pour mon colis.",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître quand est prévue la livraison de mon colis",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec ma commande, on m'a livré un produit périmé !",
+      "label": 1
+    },
+    {
+      "text": "Je veux voir les détails de suivi de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Est-ce que vous livrez à domicile ?",
+      "label": 2
+    },
+    {
+      "text": "Pouvez-vous suivre mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur l'achat d'une crème hydratante pour la peau sèche",
+      "label": 2
+    },
+    {
+      "text": "Puis-je réserver un médicament en ligne et le récupérer en magasin ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur des médicaments pour le rhume en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître si ma commande est toujours en préparation, c'est conforme ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur la réservation d'un médicament en ligne et le retirer en boutique",
+      "label": 2
+    },
+    {
+      "text": "J'ai un souci, j'ai payé mais je n'ai pas reçu ma commande.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur l'achat des pastilles pour la gorge.",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi mon numéro de suivi ne fonctionne-t-il pas ?",
+      "label": 0
+    },
+    {
+      "text": "Je veux connaître l'état actuel de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur les thermomètre, je cherche un thermomètre digital en avez-vous en inventaire ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire à quel endroit est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Avez-vous des nouvelles sur mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec mon envoi, il est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître où en est ma commande",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître quand vais-je recevoir ma acheminement",
+      "label": 0
+    },
+    {
+      "text": "Mon colis est perdu, pouvez-vous le retrouver ?",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur l'acheminement qui était incomplète, que dois-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec ma demande de remboursement, a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée sur si le livreur est en chemin",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le service, je suis très mécontent de votre service client.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi mon colis n'a pas bougé depuis plusieurs jours.",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée sur les détails de suivi de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur les délais de expédition pour ma commande",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur l'achat d'une crème hydratante pour la peau sèche.",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître le statut de mon colis qui est 'livré' mais je ne l'ai pas reçu.",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec le service après-vente qui ne me répond pas.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant où puis-je récupérer ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de quand mon colis arrivera-t-il chez moi ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur quels sont les délais d'acheminement pour ma commande",
+      "label": 0
+    },
+    {
+      "text": "J’aimerais commander du Doliprane.",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec mon colis est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur la livraison express",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème, le service après-vente ne me répond pas.",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec le produit que j’ai reçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Pouvez-vous me recommander une bonne crème solaire ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître quand est prévue l'acheminement de mon colis",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec le produit qui est défectueux, comment obtenir un remboursement",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître si mon colis est perdu pouvez-vous le retrouver",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur quels sont les délais de livraison pour ma commande",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire je veux voir les détails de suivi de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi mon paquet est-il toujours en transit ?",
+      "label": 0
+    },
+    {
+      "text": "Pouvez-vous vérifier où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée si je peux recevoir une alerte pour mon colis.",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie, je veux un dédommagement immédiat.",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie, je veux un remboursement immédiat",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur le produit que j’ai obtenu, il est détérioré",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur la livraison, elle était incomplète que dois-je faire",
+      "label": 1
+    },
+    {
+      "text": "J'aimerais en savoir plus sur quels sont vos moyens de paiement acceptés ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur le livreur qui a endommagé mon paquet",
+      "label": 1
+    },
+    {
+      "text": "J'aimerais en savoir plus sur quels sont les délais d'expédition pour ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le livreur a laissé mon envoi dehors sous la pluie.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir a quelle moment vais-je recevoir mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le produit que j’ai reçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant mon envoi est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire je veux recevoir une alerte pour mon livraison",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec pourquoi ma requisition de compensation a-t-elle été refusée",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur le produit est défectueux, comment obtenir un règlement ?",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous examiner dans quel lieu est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître avez-vous des nouvelles de mon colis",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître je veux voir les détails de suivi de ma commande",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant quel est le prix du doliprane 1000 mg ?",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec pourquoi mon produit a-t-il été endommagé lors de la livraison ?",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur est-ce que vous livrez à domicile ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir le suivi indique un problème, que dois-je faire ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de je veux connaître l'état actuel de ma commande",
+      "label": 0
+    },
+    {
+      "text": "La livraison était incomplète, que dois-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant le numéro de suivi ne fonctionne pas.",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur on m'a dit que je serais remboursé, mais je n’ai toujours rien reçu.",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec je veux un compensation immédiat.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de avez-vous des nouvelles de mon livraison ?",
+      "label": 0
+    },
+    {
+      "text": "Je veux acheter du paracétamol en ligne.",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir quand vais-je recevoir ma livraison",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant le livreur a laissé mon colis dehors sous la pluie.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur puis-je commander des masques ffp2 en ligne",
+      "label": 2
+    },
+    {
+      "text": "On m'a livré un produit périmé !",
+      "label": 1
+    },
+    {
+      "text": "Pourquoi ma demande de remboursement a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir je veux connaître l'état actuel de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "L'emballage était ouvert à la livraison.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous contrôler dans quel lieu est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant mon colis est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur il manque un article dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir le suivi indique un incident que dois-je faire",
+      "label": 0
+    },
+    {
+      "text": "Je cherche un spray nasal pour les allergies.",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire je veux connaître l'état actuel de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant avez-vous des compléments alimentaires ?",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de mon paquet est perdu, pouvez-vous le retrouver ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître pourquoi mon colis est-il toujours en transit ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant il manque un item dans mon commande",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant je veux acheter du paracétamol en ligne",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de pouvez-vous vérifier dans quel lieu est mon envoi ?",
+      "label": 0
+    },
+    {
+      "text": "A quelle heure vais-je recevoir mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Il manque un article dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de pourquoi mon numéro de suivi ne fonctionne-t-il pas ?",
+      "label": 0
+    },
+    {
+      "text": "Où puis-je récupérer ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Quels sont les délais de livraison pour ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir pourquoi ma expédition prend-elle autant de temps",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur quels sont vos moyens de paiement acceptés ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec on m'a dit que je serais remboursé, mais je n’ai toujours rien reçu.",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec j’ai reçu un mauvais article, je veux un échange.",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur puis-je réserver un remède en ligne et le retirer en point de vente ?",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec j'ai reçu un colis vide que faire ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de quand est prévue la livraison de mon livraison",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur il manque un item dans mon envoi",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi ma livraison prend-elle autant de période ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de quand est prévue la expédition de mon colis",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur le numéro de suivi ne fonctionne pas.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur avez-vous des compléments alimentaires",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de je veux recevoir une alerte pour mon envoi",
+      "label": 0
+    },
+    {
+      "text": "Le produit est défectueux, comment obtenir un remboursement ?",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec l'emballage était ouvert à la livraison.",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur pourquoi mon produit a-t-il été endommagé lors de la acheminement ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de pouvez-vous vérifier où est mon livraison ?",
+      "label": 0
+    },
+    {
+      "text": "Ma commande est toujours en préparation, c'est normal ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant le service après-vente ne me répond pas.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de le suivi indique un problème, que dois-je faire",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec le numéro de suivi ne fonctionne pas.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir quand mon envoi arrivera-t-il chez moi ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant j’ai reçu un mauvais article, je veux un échange.",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec on m'a dit que je serais remboursé, mais je n’ai toujours rien reçu.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant le produit est défectueux comment obtenir un remboursement ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de mon colis n'a pas bougé depuis plusieurs jours.",
+      "label": 0
+    },
+    {
+      "text": "Je souhaiterais savoir quand mon colis arrivera-t-il chez moi",
+      "label": 0
+    },
+    {
+      "text": "Je veux acheter une crème hydratante pour la peau sèche.",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec le livreur a endommagé mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir le livreur est-il sur le chemin",
+      "label": 0
+    },
+    {
+      "text": "Je souhaiterais savoir pourquoi mon colis est-il toujours en transit",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur puis-je réserver un médicament en ligne et le récupérer en boutique ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur pourquoi ma requisition de règlement a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur le livreur a laissé mon colis dehors sous la pluie.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant puis-je réserver un produit pharmaceutique en ligne et le récupérer en magasin ?",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec je veux parler à un responsable",
+      "label": 1
+    },
+    {
+      "text": "J'aimerais en savoir plus sur je veux acheter une crème hydratante pour la peau sèche.",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur à quelle adresse puis-je récupérer ma commande",
+      "label": 2
+    },
+    {
+      "text": "J'ai un souci concernant mon paquet a été retourné sans que je sois prévenu.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant je veux parler à un responsable.",
+      "label": 1
+    },
+    {
+      "text": "Je veux acheter du gel hydroalcoolique.",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec j'ai acquéri un colis vide, que faire ?",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur j'ai payé mais je n'ai pas reçu ma commande.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant puis-je réserver un médicament en ligne et le récupérer en commerce ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître pourquoi ma livraison prend-elle autant de délai ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de ma commande est-elle déjà en route",
+      "label": 0
+    },
+    {
+      "text": "Le suivi indique un problème, que dois-je faire ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant on m'a dit que je serais remboursé, mais je n’ai toujours rien reçu.",
+      "label": 1
+    },
+    {
+      "text": "Le produit que j’ai reçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur je cherche un spray nasal pour les allergies",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire pouvez-vous confirmer où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur j’aimerais acheter des pastilles pour la gorge.",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur est-ce que vous livrez à domicile",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous vérifiez à quel endroit est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Mon colis a été retourné sans que je sois prévenu.",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec mon colis est arrivé en mauvais état que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec pourquoi mon produit a-t-il été endommagé lors de la expédition ?",
+      "label": 1
+    },
+    {
+      "text": "Le numéro de suivi ne fonctionne pas.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant quels sont vos moyens de paiement acceptés ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous examiner à quel endroit est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec j'ai payé mais je n'ai pas obtenez ma commande.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant j’ai reçu un mauvais article, je veux un remplacement",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous suivre mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur je cherche un thermomètre digital, en avez-vous en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec pourquoi ma demande de remboursement a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur je veux acheter du paracétamol en ligne",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec je veux un dédommagement immédiat",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire avez-vous des nouvelles de mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur pouvez-vous me recommander une bonne crème solaire ?",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur puis-je commander du sirop contre la toux en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Je voudrais des informations sur pouvez-vous me recommander une bonne crème solaire ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître pouvez-vous vérifier où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant quels sont les délais de livraison pour ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur le service après-vente ne me répond pas.",
+      "label": 1
+    },
+    {
+      "text": "J'aimerais en savoir plus sur quel est le prix du doliprane 1000 mg",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur je cherche un thermomètre digital, en avez-vous en réserve ?",
+      "label": 2
+    },
+    {
+      "text": "Quel est le prix du Doliprane 1000 mg ?",
+      "label": 2
+    },
+    {
+      "text": "Je voudrais des informations sur quel est le prix du doliprane 1000 mg ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur pourquoi ma demande de remboursement a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant je cherche un thermomètre digital, en avez-vous en réserve ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur avez-vous des promotions en ce moment",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur où puis-je prendre ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous des détails concernant puis-je commander des masques ffp2 en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître avez-vous des nouvelles de mon paquet ?",
+      "label": 0
+    },
+    {
+      "text": "Où en est ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître mon colis n'a pas bougé depuis plusieurs jours.",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec le produit que j’ai reçu est brisé",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur mon colis est arrivé en mauvais état que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir je veux voir les détails de suivi de ma commande.",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur puis-je commander du sirop contre la toux en ligne",
+      "label": 2
+    },
+    {
+      "text": "Je voudrais des informations sur je cherche un thermomètre digital en avez-vous en disponibilité ?",
+      "label": 2
+    },
+    {
+      "text": "J’aimerais acheter des pastilles pour la gorge.",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire ma commande est-elle déjà en trajet",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le produit que j’ai reçu est détérioré",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître ma commande est toujours en préparation, c'est normal",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur puis-je commander des masques ffp2 en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître pouvez-vous examiner à quel endroit est mon colis",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur je cherche un thermomètre digital, en avez-vous en stock",
+      "label": 2
+    },
+    {
+      "text": "J'ai un souci concernant l'emballage était ouvert à la livraison.",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec mon paquet est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pourquoi ma livraison prend-elle autant de délai",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur le produit que j’ai perçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir quand est prévue la acheminement de mon envoi ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant je veux acheter du gel hydroalcoolique.",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous des détails concernant j’aimerais commander du doliprane.",
+      "label": 2
+    },
+    {
+      "text": "Je suis très mécontent de votre service client.",
+      "label": 1
+    },
+    {
+      "text": "J'aimerais en savoir plus sur je cherche un thermomètre digital en avez-vous en stock",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir le statut de mon colis est 'livré' mais je ne l'ai pas reçu.",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur avez-vous des promotions en ce moment ?",
+      "label": 2
+    },
+    {
+      "text": "Avez-vous des compléments alimentaires ?",
+      "label": 2
+    },
+    {
+      "text": "Je cherche un thermomètre digital, en avez-vous en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec l'emballage était ouvert à la acheminement",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître ma commande est-elle déjà en route",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant avez-vous des promotions en ce moment ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur je veux parler à un responsable.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi mon colis est-il toujours en transit ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître pourquoi mon numéro de suivi ne fonctionne-t-il pas ?",
+      "label": 0
+    },
+    {
+      "text": "Je veux parler à un responsable.",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec le livreur a laissé mon colis dehors sous la pluie.",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec la livraison était incomplète, que dois-je faire",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître ma commande est-elle déjà en transport",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire le statut de mon colis est 'livré' mais je ne l'ai pas acquéri",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur l'emballage était ouvert à la livraison.",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur puis-je commander des masques ffp2 en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de ma commande est-elle déjà en chemin ?",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur j’aimerais commander du doliprane",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de avez-vous des nouvelles de mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur quels sont les délais de livraison pour ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître quand mon colis arrivera-t-il chez moi",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître je veux recevoir une alerte pour mon colis.",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur y a-t-il une option pour la livraison express ?",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur mon colis a été retourné sans que je sois prévenu.",
+      "label": 1
+    },
+    {
+      "text": "Mon colis est arrivé en mauvais état, que puis-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant le produit que j’ai reçu est endommagé",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant puis-je commander du sirop contre la toux en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Pourquoi mon numéro de suivi ne fonctionne-t-il pas ?",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur quels sont vos moyens de paiement acceptés",
+      "label": 2
+    },
+    {
+      "text": "Pourquoi mon produit a-t-il été endommagé lors de la livraison ?",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec la livraison était incomplète, que dois-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur j’ai reçu un mauvais article, je veux un changement",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître quand est prévue la livraison de mon livraison ?",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec je suis très mécontent de votre service client.",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec la acheminement était incomplète, que dois-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur où puis-je récupérer ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir mon colis n'a pas bougé depuis plusieurs jours.",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur avez-vous des promotions en ce moment ?",
+      "label": 2
+    },
+    {
+      "text": "Serait-il possible de connaître à quel endroit en est ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant le produit que j’ai obtenez est cassé.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant je veux un compensation immédiat",
+      "label": 1
+    },
+    {
+      "text": "Il y a une anomalie sur pourquoi ma commande a-t-elle été annulée sans préavis ?",
+      "label": 1
+    },
+    {
+      "text": "Avez-vous des médicaments pour le rhume en stock ?",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur je cherche un spray nasal pour les allergies",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de pouvez-vous suivre mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître pouvez-vous suivre mon livraison",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant pourquoi ma demande de compensation a-t-elle été refusée ?",
+      "label": 1
+    },
+    {
+      "text": "Ma commande est-elle déjà en route ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant y a-t-il une option pour la livraison express ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir a quelle heure vais-je recevoir mon colis",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur avez-vous des médicaments pour le rhume en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire pouvez-vous vérifier à quelle adresse est mon colis",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous une idée de où en est ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire pourquoi ma livraison prend-elle autant de temps ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant le produit que j’ai reçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire mon colis est perdu, pouvez-vous le retrouver",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec j'ai acquéri un colis vide, que faire",
+      "label": 1
+    },
+    {
+      "text": "Je veux un remboursement immédiat.",
+      "label": 1
+    },
+    {
+      "text": "Pourquoi ma commande a-t-elle été annulée sans préavis ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de mon envoi est perdu, pouvez-vous le retrouver ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant pouvez-vous me recommander une bonne crème solaire ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec j’ai obtenu un mauvais article, je veux un changement",
+      "label": 1
+    },
+    {
+      "text": "Je voudrais des informations sur est-ce que vous livrez à domicile ?",
+      "label": 2
+    },
+    {
+      "text": "Le livreur a laissé mon colis dehors sous la pluie.",
+      "label": 1
+    },
+    {
+      "text": "J'ai reçu un colis vide, que faire ?",
+      "label": 1
+    },
+    {
+      "text": "Mon colis n'a pas bougé depuis plusieurs jours.",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire pouvez-vous suivre mon colis",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur à quel endroit puis-je récupérer ma commande",
+      "label": 2
+    },
+    {
+      "text": "Quand mon colis arrivera-t-il chez moi ?",
+      "label": 0
+    },
+    {
+      "text": "Serait-il possible de connaître quand vais-je recevoir ma expédition ?",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec j'ai payé mais je n'ai pas reçu ma commande",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant dans quel lieu puis-je récupérer ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Je constate une difficulté avec il manque un article dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "J'ai un souci concernant le livreur a endommagé mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire le suivi indique un problème, que dois-je faire",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant avez-vous des médicaments pour le rhume en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me dire ma commande est-elle déjà en route ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant pourquoi ma commande a-t-elle été annulée sans préavis ?",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me dire a quelle heure vais-je recevoir mon livraison ?",
+      "label": 0
+    },
+    {
+      "text": "Quand vais-je recevoir ma livraison ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur puis-je commander du sirop contre la toux en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Quand est prévue la livraison de mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire quand mon commande arrivera-t-il chez moi",
+      "label": 0
+    },
+    {
+      "text": "Je souhaiterais savoir où en est ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Je rencontre un problème avec le numéro de suivi ne fonctionne pas",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de le statut de mon commande est 'livré' mais je ne l'ai pas acquéri",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire où en est ma commande ?",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur le produit que j’ai reçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pourquoi mon numéro de suivi ne fonctionne-t-il pas ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant je cherche un spray nasal pour les allergies.",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de pourquoi mon colis est-il toujours en transit",
+      "label": 0
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous vérifier où est mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "J'ai un souci concernant la livraison était incomplète, que dois-je faire ?",
+      "label": 1
+    },
+    {
+      "text": "Serait-il possible de connaître quand vais-je recevoir ma livraison ?",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur j’aimerais commander du doliprane",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec le produit que j’ai perçu est cassé.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur je veux acheter du paracétamol en ligne.",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur pourquoi mon produit a-t-il été endommagé lors de la livraison",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec pourquoi mon produit a-t-il été endommagé lors de la livraison ?",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur puis-je réserver un produit pharmaceutique en ligne et le récupérer en magasin ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec j'ai perçu un colis vide, que faire ?",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec je veux un remboursement immédiat.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant je cherche un thermomètre digital, en avez-vous en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec on m'a livré un produit périmé",
+      "label": 1
+    },
+    {
+      "text": "Je constate une difficulté avec je veux un remboursement immédiat",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant est-ce que vous livrez à domicile",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur j’aimerais commander du doliprane.",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec pourquoi ma commande a-t-elle été annulée sans préavis",
+      "label": 1
+    },
+    {
+      "text": "Quels sont vos moyens de paiement acceptés ?",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de le statut de mon colis est 'livré' mais je ne l'ai pas obtenu",
+      "label": 0
+    },
+    {
+      "text": "Je constate une difficulté avec pourquoi ma commande a-t-elle été annulée sans préavis",
+      "label": 1
+    },
+    {
+      "text": "Puis-je commander des masques FFP2 en ligne ?",
+      "label": 2
+    },
+    {
+      "text": "Le livreur a endommagé mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous une idée de ma commande est toujours en préparation c'est normal ?",
+      "label": 0
+    },
+    {
+      "text": "Auriez-vous des détails concernant à quelle adresse puis-je récupérer ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "J'ai un souci concernant on m'a livré un produit périmé !",
+      "label": 1
+    },
+    {
+      "text": "Je rencontre un problème avec il manque un produit dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur je cherche un thermomètre digital, en avez-vous en disponibilité ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur y a-t-il une option pour la livraison express",
+      "label": 2
+    },
+    {
+      "text": "J'aimerais en savoir plus sur avez-vous des compléments alimentaires ?",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur où puis-je retirer ma commande ?",
+      "label": 2
+    },
+    {
+      "text": "Le livreur est-il sur le chemin ?",
+      "label": 0
+    },
+    {
+      "text": "J'aimerais en savoir plus sur pouvez-vous me recommander une bonne crème solaire",
+      "label": 2
+    },
+    {
+      "text": "Auriez-vous une idée de mon commande est perdu, pouvez-vous le retrouver ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me dire le livreur est-il sur le chemin ?",
+      "label": 0
+    },
+    {
+      "text": "Le statut de mon colis est 'livré' mais je ne l'ai pas reçu.",
+      "label": 0
+    },
+    {
+      "text": "Je voudrais des informations sur avez-vous des médicaments pour le rhume en stock ?",
+      "label": 2
+    },
+    {
+      "text": "Je rencontre un problème avec je veux parler à un responsable",
+      "label": 1
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur avez-vous des médicaments pour le rhume en inventaire ?",
+      "label": 2
+    },
+    {
+      "text": "Je souhaiterais savoir avez-vous des nouvelles de mon colis ?",
+      "label": 0
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur je veux acheter du gel hydroalcoolique.",
+      "label": 2
+    },
+    {
+      "text": "Pourriez-vous me renseigner sur je cherche un spray nasal pour les allergies",
+      "label": 2
+    },
+    {
+      "text": "Il y a une anomalie sur il manque un item dans mon colis.",
+      "label": 1
+    },
+    {
+      "text": "Le service après-vente ne me répond pas.",
+      "label": 1
+    },
+    {
+      "text": "Je souhaiterais savoir pouvez-vous vérifier où est mon envoi",
+      "label": 0
+    },
+    {
+      "text": "Je veux recevoir une alerte pour mon colis.",
+      "label": 0
+    },
+    {
+      "text": "Il y a une anomalie sur le produit est défectueux, comment obtenir un remboursement ?",
+      "label": 1
+    },
+    {
+      "text": "Auriez-vous des détails concernant je cherche un thermomètre digital en avez-vous en inventaire ?",
+      "label": 2
+    }
+  ]
+}
